@@ -1,0 +1,12 @@
+* {
+		margin: 0;
+		padding: 0;
+	}
+
+
+.tweet_box {
+    max-width: 500px;
+    background: #ececec;
+    padding: 20px;
+    min-height: 200px;
+}
